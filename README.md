@@ -31,12 +31,10 @@ Mega Ads to platforma, którą stworzyłem we współpracy z uczestnikami bootca
 - [Link do repozytorium (część backendowa)](https://github.com/MariuszRudnik/MyFinances-Be)
 
 <div>
-  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmegak.1565c403.png&w=3840&q=75" width="220px" height="250px"/>
+  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmegak.1565c403.png&w=3840&q=75" width="350px" height="250px"/>
 </div>
 
-<!--
-**MariuszRudnik/MariuszRudnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 ### MyFinance:
 MyFinance to projekt, który samodzielnie stworzyłem. Jest to aplikacja do zarządzania finansami, pozwalająca na zapisywanie i analizę wydatków w różnych kategoriach. Aktualnie projekt znajduje się w fazie beta. Zajmowałem się jego kompletnym opracowaniem, od front-endu opartego na React i TypeScript, po back-end wykorzystujący Nest.js, TypeORM i MySQL.
 
@@ -44,10 +42,10 @@ MyFinance to projekt, który samodzielnie stworzyłem. Jest to aplikacja do zarz
 - [Link do repozytorium (część backendowa)](https://github.com/MariuszRudnik/MyFinances-Be)
 - [Prezentacja projektu (video)](https://www.youtube.com/watch?v=Th-LhM4ou7s)
 
-<!-- Tutaj możesz wstawić link do zdjęcia projektu, jeśli dostarczysz go później -->
-<!-- <div>
-  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F1.28a39d50.png&w=3840&q=75" width="220px" height="250px"/>
-</div> -->
+
+<div>
+  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F1.28a39d50.png&w=3840&q=75" width="350px" height="250px"/>
+</div>
 
 
 
