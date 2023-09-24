@@ -20,7 +20,7 @@ Wielką satysfakcję czerpię z rozwiązywania trudnych problemów i uczenia si�
 - Tailwind CSS, Styled Components
 - GraphQL, TypeORM, Socket.io
 - MySQL, MongoDB
-- Git, Docker
+- Docker
 
 ## Projekty:
 
