@@ -31,7 +31,7 @@ Mega Ads to platforma, którą stworzyłem we współpracy z uczestnikami bootca
 - [Link do repozytorium (część backendowa)](https://github.com/MariuszRudnik/MyFinances-Be)
 
 <div>
-  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmegak.1565c403.png&w=3840&q=75" width="350px" height="250px"/>
+  <img src="https://user-images.githubusercontent.com/105609653/184940742-d96c8f74-120c-4e15-a0f4-8809b525d80f.png" width="350px" height="250px"/>
 </div>
 
 
@@ -44,7 +44,7 @@ MyFinance to projekt, który samodzielnie stworzyłem. Jest to aplikacja do zarz
 
 
 <div>
-  <img src="https://www.mrjson.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F1.28a39d50.png&w=3840&q=75" width="350px" height="250px"/>
+  <img src="https://github.com/MariuszRudnik/MyFinance-FE/blob/Develop/img/2.png" width="350px" height="250px"/>
 </div>
 
 
