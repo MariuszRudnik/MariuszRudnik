@@ -11,6 +11,7 @@ Jestem Full Stack JavaScript Developer z pasją do tworzenia aplikacji interneto
 Moje doświadczenie zawodowe obejmuje pracę nad różnorodnymi projektami, takimi jak platformy społecznościowe, aplikacje zarządzania finansami, komunikatory wideo, a także wiele innych. Pracując zarówno samodzielnie, jak i w zespole, nauczyłem się doceniać kolaborację i wspólną wymianę pomysłów.
 
 Posiadam również podstawową wiedzę z zakresu testów bezpieczeństwa i podczas tworzenia aplikacji zwracam szczególną uwagę na to, aby były one bezpieczne w kontekście zagrożeń z listy OWASP Top 10.
+
 Wielką satysfakcję czerpię z rozwiązywania trudnych problemów i uczenia się nowych technologii. Dla mnie programowanie to nie tylko praca, ale również pasja, która motywuje mnie do ciągłego doskonalenia swoich umiejętności. Uwielbiam pracować w dynamicznym środowisku, gdzie mogę wnieść swój wkład w tworzenie innowacyjnych rozwiązań.
 
 ## Technologie, które używam w projektach:
