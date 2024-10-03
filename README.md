@@ -16,6 +16,7 @@ Wielką satysfakcję czerpię z rozwiązywania trudnych problemów i uczenia si�
 - HTML, CSS, SCSS
 - JavaScript, TypeScript
 - React, Next.js
+- React Native, Expo
 - Node.js, Express.js, Nest.js
 - Tailwind CSS, Styled Components
 - GraphQL, TypeORM, Socket.io
