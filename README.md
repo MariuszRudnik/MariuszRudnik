@@ -47,5 +47,13 @@ MyFinance to projekt, który samodzielnie stworzyłem. Jest to aplikacja do zarz
   <img src="https://github.com/MariuszRudnik/MyFinance-FE/blob/Develop/img/2.png" width="350px" height="250px"/>
 </div>
 
+### Weather-App
+Weather-App to aplikacja do sprawdzania prognozy pogody na najbliższe trzy dni, a także szczegółowych danych pogodowych na wybraną lokalizację.Aplikacja umożliwia szybkie dodawanie lokalizacji, z których można sprawdzić aktualną temperaturę, prognozę pogody oraz szczegóły dotyczące przewidywanej temperatury. 
 
+
+<div>
+  <img src="https://github.com/MariuszRudnik/Weather-App/blob/main/1.png?raw=true" width="350px" height="250px"/>
+</div>
+
+- [Link do repozytorium ]([https://github.com/MariuszRudnik/MyFinance-FE](https://github.com/MariuszRudnik/Weather-App))
 
