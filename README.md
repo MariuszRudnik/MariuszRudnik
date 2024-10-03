@@ -55,5 +55,6 @@ Weather-App to aplikacja do sprawdzania prognozy pogody na najbliższe trzy dni,
   <img src="https://github.com/MariuszRudnik/Weather-App/blob/main/1.png?raw=true"  height="250px"/>
 </div>
 
-- [Link do repozytorium ]([https://github.com/MariuszRudnik/Weather-App])
+- [Link do repozytorium](https://github.com/MariuszRudnik/Weather-App)
+
 
